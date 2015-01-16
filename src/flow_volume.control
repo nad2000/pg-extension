@@ -1,0 +1,13 @@
+# ----------------------------------------------------------------------
+#
+#  flow_volumen.control
+#      flow_volume() aggregate function working on flow_samples table
+# 
+#  Copyright (c) 2012, 2013, 2014 Endace Inc
+# 
+# ----------------------------------------------------------------------
+
+comment = 'flow_volume(...) aggregate function and other useful stuff'
+default_version = '1.0'
+module_pathname = '$libdir/flow_volume'
+relocatable = true
